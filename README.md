@@ -9,7 +9,7 @@
 
 - 🎓 Bilgisayar Mühendisliği 2. Sınıf Öğrencisiyim.
 - 🚀 **Öne Çıkan Projelerim:**
-  - [MVC Su Takip](https://github.com/kusVeysel/WebApplication) (C# & MSSQL Web Uygulaması)
+  - [MVC Su Takip](https://github.com/kusVeysel/MVCSuTakip) (C# & MSSQL Web Uygulaması)
   - [Genel JS Çalışması](https://github.com/kusVeysel/JavaScript/tree/main/proje)
 - 🏆 **Deneyim & Etkinlikler:** SSB Kuantum Programlama Hackathonu (Python & Qiskit)
 - ⚡ **İlgi Alanlarım:** Backend Geliştirme, SQL Veritabanı Mimarisi & İlişkisel Modelleme
